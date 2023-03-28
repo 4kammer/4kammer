@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @4kammer
-- 👀 I’m interested in insights that come from data analysis, I tend to favor the reporting of insights than actual codes (such as SQL) that are a necessary first step. In other words, I don't see myself as an efficient coder, rather an expert in extracting and communicating actionable insights.
-- 🌱 I’m currently (re)learning R, Python, SQL, Alteryx
+- 👀 I am passionate about uncovering valuable insights through data science and favor the storytelling over coding (honest!).
+- 🌱 I’m currently (re)learning R, Python, SQL, Alteryx while keeping my fangs sharp in visuualization tools such as Tableau and Power BI.
 - 💞️ I’m looking to collaborate on projects that help improve lives as directly as possible
 - 📫 How to reach me 4kammer at gmail
 
